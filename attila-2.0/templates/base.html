@@ -73,6 +73,7 @@
   {% endfor %}
 
   <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css" type="text/css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css">
 
   {% if CSS_OVERRIDE %}
   <!-- CSS specified by the user -->
@@ -235,6 +236,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
   <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.fitvids.js"></script>
   <script type="text/javascript" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/script.js"></script>
+  <script type="module" src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/cookieconsent-config.js"></script>
 
   {% if JS_OVERRIDE %}
   <!-- Script specified by the user -->
