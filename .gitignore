@@ -1,0 +1,12 @@
+__pycache__
+outputs/*
+!outputs/readme.md
+inputs/*
+!inputs/readme.md
+logs/*
+!logs/readme.md
+bin/*
+!bin/readme.md
+*.dist-info
+dist/
+applicazione.zip

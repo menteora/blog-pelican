@@ -1,0 +1,2 @@
+#git+https://github.com/menteora/isakk.git@d71d3920e40492892e70aaeee89cfffe0020fba0
+pelican[markdown]
