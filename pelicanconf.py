@@ -36,5 +36,3 @@ DEFAULT_PAGINATION = 10
 
 THEME = "attila-2.0"
 
-# Google Tag Manager ID
-GOOGLE_TAG_ID = "GTM-P79M6DH5"
