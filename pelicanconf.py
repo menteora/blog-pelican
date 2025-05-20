@@ -35,3 +35,6 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 THEME = "attila-2.0"
+
+# Google Tag Manager ID
+GOOGLE_TAG_ID = "GTM-P79M6DH5"
