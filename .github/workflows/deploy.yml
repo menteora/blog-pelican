@@ -18,7 +18,7 @@ jobs:
           pip install pelican ghp-import
       - name: Build static site
         run: |
-          pelican content -o output -s pelicanconf.py
+          pelican content -o output -s publishconf.py
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
