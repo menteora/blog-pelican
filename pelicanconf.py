@@ -36,3 +36,6 @@ DEFAULT_PAGINATION = 10
 
 THEME = "attila-2.0"
 
+# Default hero image for the home page
+HOME_COVER = "theme/images/hero-image.png"
+

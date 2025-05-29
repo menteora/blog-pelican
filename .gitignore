@@ -12,3 +12,4 @@ dist/
 applicazione.zip
 output/
 commit.py
+.venv/
